@@ -1,0 +1,131 @@
+/*================================================================================
+	Item Name: Vuexy - Vuejs, HTML & Laravel Admin Dashboard Template
+	Version: 2.0
+	Author: PIXINVENT
+	Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+.alert.alert-success.alert-dismissible {
+    top: 100px;
+    width: 94%;
+    margin-left: 31px;
+}
+.users-view-image img.img-size{
+	width: 300px !important;
+    height: 220px !important;
+    object-fit: cover;
+}
+.user_aadhar_image img {
+    height: 238px;
+    object-fit: cover;
+}
+
+.user_pancard_image img {
+    height: 238px;
+    object-fit: cover;
+}
+.font-weight-bold {
+    padding-right: 20px;
+}
+.ag-theme-material .ag-cell:focus, .ag-theme-material .ag-cell:focus-visible {
+    box-shadow: none !important;
+    border: none !important;
+    outline: none !important;
+}
+.ag-theme-material .ag-cell a:focus, .ag-theme-material .ag-cell a:focus-visible {
+    box-shadow: none !important;
+    border: none !important;
+    outline: none !important;
+}
+.ag-theme-material .ag-ltr .ag-has-focus .ag-cell-focus:not(.ag-cell-range-selected) {
+    box-shadow: none !important;
+    border: none !important;
+    outline: none !important;
+}
+.aggrid.ag-theme-material .card-body{overflow-x: auto;}
+
+.card-body .row .text-right {
+    width: 100%;
+}
+.card-body .row .text-right ul.pagination {
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.ag-body-viewport .ag-center-cols-container .ag-row .ag-cell.ag-cell-value span a span {
+    font-size: 18px;
+    margin-right: 5px;
+}
+.users-view-image.seller_view, .users-view-image.store_view{width: auto;}
+a.sellers_add {
+    border-color: #4839EB !important;
+    background-color: #7367F0 !important;
+    color: #FFFFFF;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    padding: 0.9rem 2rem;
+    border-radius: 0.4285rem;
+    line-height: 1;
+    margin-left: 10px;
+}
+@media print{
+    #payment_print{display: none;}
+    #basic-examples .row { display: none; }
+    .ag-cell-with-height[col-id=action], .ag-header-cell[col-id=action] {
+      display: none;
+    }
+    .ag-paging-panel.ag-unselectable{display: none !important;}
+}
+
+
+
+.card-header-block {
+    width: 100%;
+}
+.card-header-block > .avatar {
+    float: left;
+    margin-right: 10px !IMPORTANT;
+}
+.card-header-block ul {
+    list-style: none;
+    padding: 0 0 0 10px;
+    margin-bottom: 0;
+}
+.card-header-block ul li {
+    display: block;
+    text-align: right;
+}
+
+#package-pie-chart{text-align: left;}
+.hide{display: none !important;}
+#product-order-chart .apexcharts-legend.center.position-right {margin-right: 20px !important;font-size: 20px;}
+.progress {background-color: #dedede !important;}
+.progress.progress-bar-info{background-color:#2fd3e4;}
+.progress.progress-bar-warning{background-color:#ffad5f;}
+.progress.progress-bar-primary1 {background-color:#887ef2;}
+.progress.progress-bar-info-light .progress-bar { background-color: #3fe3cd;}
+.progress.progress-bar-warning-light .progress-bar { background-color: #ffc997;}
+.progress.progress-bar-primary-light .progress-bar { background-color: #aca1f7;}
+#affiliate_tbl tbody tr td , #affiliate_tbl tr th { padding-bottom: 0.8rem;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

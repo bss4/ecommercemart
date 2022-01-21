@@ -1,0 +1,25 @@
+.second-head-button {float: right;}
+.required {color: red;}
+
+#panel-group-id {border-radius: 0px; padding: 0px; margin: 0 6px 20px 7px; background-color: inherit;border: 1px solid #b5b2b2;}
+#panel-group-id .panel-title {background-color: #007bff; padding: 10px 0px; margin: 0px;}
+#panel-group-id .panel-title a {color: #fff;  text-align: center; display: inherit;}
+#panel-group-id .panel-body .row .btn-c {flex: 0 0 100%; max-width: 100%;  text-align: center !important;} 
+#panel-group-id .panel-body .row .btn-c .bg-pink {background-color: #343a40 !important; color: #fff;  border: 1px solid transparent;  padding: 8px 20px;  font-size: 16px;
+    line-height: normal;  border-radius: 3px;margin: 0 0 5px 0;}
+#panel-group-id .panel-body .row .btn-c .bg-pink i {display:none;}
+#panel-group-id .panel-body .row .btn-c .bg-blue-grey {background-color: #343a40; color: #fff;  border: 1px solid transparent;  padding: 8px 20px;
+    font-size: 16px;  line-height: normal;  border-radius: 3px;margin: 0 0 5px 0;}
+#panel-group-id .form-group {margin-top: 10px; margin-left: 20px;  margin-right: 20px;}
+
+.pagination_text {margin: 8px 0 0 10px; text-align: left;}
+.pagination {margin: 15px 0 0 10px;}
+.pagination li {margin: 0 8px 0 0px;}
+.pagination li:first-child {border-radius: 3px;}
+.pagination li:last-child {border-radius: 3px;}
+.pagination li a {padding: 2px 10px 5px; color: #17a2b8;border-radius: 3px;border: 1px solid #17a2b8;}
+.pagination li a:hover {background-color: #17a2b8; color: #fff;}
+.pagination .active {}
+.pagination .active a {background-color: #17a2b8; color: #fff;}
+.pagination .disabled {border-radius: 3px;}
+.pagination .disabled a {}

@@ -1,0 +1,1 @@
+[28-Nov-2021 11:18:26 Asia/Kolkata] PHP Fatal error:  Out of memory (allocated 421527552) (tried to allocate 400560128 bytes) in /home1/angelsoftwaresol/mart.angelsoftwaresolution.in/mart/app/Http/Controllers/ApiController.php on line 3356

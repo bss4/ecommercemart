@@ -1,0 +1,4 @@
+[26-Nov-2021 06:36:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home1/angelsoftwaresol/mart.angelsoftwaresolution.in/mart/routes/api.php:35
+Stack trace:
+#0 {main}
+  thrown in /home1/angelsoftwaresol/mart.angelsoftwaresolution.in/mart/routes/api.php on line 35
